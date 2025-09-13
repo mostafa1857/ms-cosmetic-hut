@@ -1,6 +1,22 @@
 h1{text-align: center;
     height: 200px;
     background-color: coral;
-    font-size:xx-large
+    font-size:xx-large;
+    margin: 20px rgb(29, 12, 111);
+    m
+    border:5px solid black;
+    border-radius: 10px 20px;
+    box-shadow: 5px 5px rgb(90, 168, 96);
+    b
 }
-p{background-color: aquamarine;}
+p{background-color: aquamarine;
+    text-align: center;
+    font-size: larger;
+}
+div
+{background-color: antiquewhite;
+border: 10px solid teal;
+
+
+
+}
